@@ -43,7 +43,7 @@ Me apasiona construir arquitecturas robustas y escalables, aplicando buenas prá
 ---
 
 ### 📊 Estadísticas de GitHub
-```markdown
+
 [![Estadísticas de julhr7](https://github-readme-stats.vercel.app/api?username=julhr7&show_icons=true&theme=radical&hide_border=true)](https://github.com/julhr7)
 
 ---
