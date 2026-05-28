@@ -52,5 +52,5 @@ Me apasiona construir arquitecturas robustas y escalables, aplicando buenas prá
 
 Si quieres hablar sobre arquitectura de software, oportunidades profesionales o intercambio de ideas, no dudes en escribirme:
 
-- 💼 **LinkedIn:** [linkedin.com/in/juliohuamanca](https://www.linkedin.com/in/juliohuamanca)
+- 💼 **LinkedIn:** [linkedin.com/in/juliohuamanca](https://www.linkedin.com/in/ing-julio-huamancama-ramos-9b8207154/)
 - ✉️ **Email:** [julhr7@hotmail.com](mailto:julhr7@hotmail.com)
